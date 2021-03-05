@@ -1,0 +1,6 @@
+README.md
+setup.py
+randomplushmikufetcher.egg-info/PKG-INFO
+randomplushmikufetcher.egg-info/SOURCES.txt
+randomplushmikufetcher.egg-info/dependency_links.txt
+randomplushmikufetcher.egg-info/top_level.txt
